@@ -1,0 +1,9 @@
+org: rmilosic
+app: cookbook-master
+name: aws-lambda-starter
+component: aws-lambda
+
+inputs:
+  src: ./dist
+  handler: handler.handler
+
