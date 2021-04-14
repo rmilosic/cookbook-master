@@ -1,0 +1,9 @@
+component: aws-lambda@2.0.2
+org: rmilosic
+app: cookbook-master
+name: build-pdf
+
+inputs:
+  src: ./dist
+  handler: handler.handler
+

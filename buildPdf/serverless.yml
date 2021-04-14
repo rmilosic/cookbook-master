@@ -1,7 +1,7 @@
+component: aws-lambda@2.0.2
 org: rmilosic
 app: cookbook-master
-name: aws-lambda-starter
-component: aws-lambda
+name: build-pdf
 
 inputs:
   src: ./dist
