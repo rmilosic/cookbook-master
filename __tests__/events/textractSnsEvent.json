@@ -1,0 +1,11 @@
+{
+    "JobId": "12345",
+    "Status": "SUCEEDED",
+    "API": "String",
+    "JobTag": "test1",
+    "Timestamp": 12031123210,
+    "DocumentLocation": {
+      "S3ObjectName": "textract_output/365663d4b6018b760d5f4d6a4f23f089ae3236a81347aa770ef506fdcb096757/1",
+      "S3Bucket": "elastic-cookbook-public"
+    }
+}
