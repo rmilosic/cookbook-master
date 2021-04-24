@@ -27,3 +27,4 @@ yarn.lock
 test
 *.pdf
 file.pdf
+.dynamodb
